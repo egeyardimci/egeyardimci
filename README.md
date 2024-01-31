@@ -2,7 +2,7 @@
 
 - 🔭 Interested in Full Stack Developement and Embeded Systems
 - 📫 How to reach me: ege.yardimci@sabanciuniv.edu
-- 🌍 I'm based in Turkey, looking for new opportunities around the world
+- 🌍 I'm based in Turkey, looking for new opportunities.
 
 <br></br>
 
